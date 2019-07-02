@@ -11,6 +11,14 @@ DW Klondike Solitaire is a web-based solitaire card game created by YGGDRASIL ST
 * One Sweetly Solemn Thought.
 
 
+## How to run?
+
+* [Download](https://github.com/YGGDRASIL-STUDIO/DW-Klondike-Solitaire/archive/master.zip) this repository and unzip, open **index.html** in your web browser.
+* Click [HERE](https://yggdrasil-studio.github.io/DW-Klondike-Solitaire/).
+* Visit our [itch.io](https://yggdrasilstudio.itch.io/dw-klondike-solitaire).
+* Purchase on [Steam DLC](https://store.steampowered.com/app/1008420/Discouraged_Workers_MOD__Klondike_Solitaire/)
+
+
 ## Where is the source code?
 
 The source code can be seen after unpack the **game.zip**. It has a **Ren'Py** source codes, **rpy** extension.
