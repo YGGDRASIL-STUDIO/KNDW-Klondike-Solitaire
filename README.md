@@ -15,7 +15,7 @@ DW Klondike Solitaire is a web-based solitaire card game created by YGGDRASIL ST
 
 * Click [HERE](https://yggdrasil-studio.github.io/DW-Klondike-Solitaire/).
 * Visit our [itch.io](https://yggdrasilstudio.itch.io/dw-klondike-solitaire).
-* Purchase on [Steam DLC](https://store.steampowered.com/app/1008420/Discouraged_Workers_MOD__Klondike_Solitaire/)
+* Purchase from [Steam](https://store.steampowered.com/app/1008420/Discouraged_Workers_MOD__Klondike_Solitaire/) with DLC of the Discouraged Workers.
 
 
 ## Where is the source code?
