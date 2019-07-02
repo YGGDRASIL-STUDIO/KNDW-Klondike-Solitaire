@@ -22,7 +22,7 @@ DW Klondike Solitaire is a web-based solitaire card game created by YGGDRASIL ST
 
 ## Where is the source code?
 
-The source code can be seen after unpack the **game.zip**. It has a **Ren'Py** source codes, **rpy** extension.
+The source code can be found after unpack the **game.zip**. It has a **Ren'Py** source codes, **rpy** extension.
 
 
 ## License
