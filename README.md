@@ -1,4 +1,6 @@
-# DW-Klondike-Solitaire
+# DW Klondike Solitaire
+
+[![Donate Me](https://img.shields.io/badge/Built%20by-Lee%20Yunseok-purple.svg?style=popout&logo=paypal&maxAge=999999)](https://paypal.me/leeyunseok) [![Become a Patron](https://img.shields.io/badge/Become%20a-Patron-f96854.svg?style=popout&logo=Patreon&maxAge=999999)](https://www.patreon.com/bePatron?u=347743) [ ![GitHub commits](https://img.shields.io/github/commits-since/YGGDRASIL-STUDIO/DW-Klondike-Solitaire/d9d9ba5.svg?style=popout&logo=github)](https://github.com/YGGDRASIL-STUDIO/DW-Klondike-Solitaire/commits/master) [![License](https://img.shields.io/github/license/YGGDRASIL-STUDIO/DW-Klondike-Solitaire.svg?style=popout&logo=github)](https://github.com/YGGDRASIL-STUDIO/DW-Klondike-Solitaire#license)
 
 DW Klondike Solitaire is a web-based solitaire card game created by YGGDRASIL STUDIO. It also playable [DLC](https://store.steampowered.com/app/1008420/Discouraged_Workers_MOD__Klondike_Solitaire/) for [Discouraged Workers](https://yggdrasil-studio.github.io/Discouraged-Workers).
 
