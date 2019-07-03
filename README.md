@@ -6,7 +6,7 @@ DW Klondike Solitaire is a web-based solitaire card game created by YGGDRASIL ST
 
 * Based on Klondike, the best-known solitaire card game.
 * Original card images made from our tarot deck.
-* Played with a standard 52-card deck, without Jokers.
+* Play with a standard 52-card deck, without Jokers.
 * The four foundations are built up by suit from Ace to King.
 * Sometimes Taejin show up to give you a hint.
 * This mini-game was developed to get donations for the Project DW.
